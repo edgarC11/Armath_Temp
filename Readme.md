@@ -16,8 +16,10 @@ D7 -> D12
 BA -> 5V
 BC -> GND
 
+thermistor resistor: 10k Ohm
 thermistor pin: A0
 
+LED resistors: 220Ohm
 
 LED pins: 
 coldPin = 22;
